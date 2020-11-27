@@ -1,0 +1,258 @@
+<!-- Created by Muskan Mahajan-->
+
+
+
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+
+   
+   
+     
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href='https://fonts.googleapis.com/css?family=Aclonica' rel='stylesheet'>
+
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <title>Document</title>
+</head>
+<body>
+
+
+    <div class="loading-bar">
+        <div class="main-loading-bar">
+
+
+        <div class="obj"></div>
+        <div class="obj"></div>
+        <div class="obj"></div>
+        <div class="obj"></div>
+        <div class="obj"></div>
+        <div class="obj"></div>
+        <div class="obj"></div>
+        <div class="obj"></div>
+    </div>
+
+    <h1 class="please-wait"> Please Wait...</h1>
+    </div>
+    
+
+    <div class="main-container-all">
+    <div class="vegan-icon-main-container">
+        <div class="vegan-icon">
+             <img class="image-vegan" src="https://i.imgur.com/8EAEooU.jpg" alt=""> 
+            <!-- <img class="image-vegan" src="2.jpg" alt=""> -->
+
+        </div>
+    </div>
+
+    <div class="home-menu-container">
+        <div class="menu-text-main-container">
+            <h1 class="menu-text">Menu</h1>
+         
+            <div class="main-bottom-container">
+            <h1 class="home-text">Home</h1>
+            <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
+            <h1 class="menu2-text">Menu </h1>
+
+        </div>   
+        </div>
+    </div>
+     <div class="main-container">
+        
+
+    <div class="dises-varaties"data-aos="zoom-in"
+    data-aos-offset="300"
+    data-aos-easing="ease-in-sine" data-aos-duration="800">
+        
+        <div class="food-image">
+              <img class="burger-image-handle" src="https://i.imgur.com/St5Q9yf.jpg" alt="">  
+            <!-- <img class="burger-image-handle" src="burger2.jpg" alt=""> -->
+           
+            </div>
+            <div class="dish-price">
+                <h1 class="price-handle">Spicy Burgers </br>for the price of one</h1>
+
+                    <a class="price-Btn" href="#"><span class="sup-text">$</span><span class="sub-text"><sub>15</sub></span><span class="sup-text">99</span></a>
+                   
+                </div>
+                 
+
+        </div> 
+
+        <div class="dishes-varaties2" data-aos="zoom-in" 
+        data-aos-offset="300"
+        data-aos-easing="ease-in-sine" data-aos-duration="800">
+            <div class="image-dishes">
+                 <img class="image-handle-dish" src="https://i.imgur.com/KRF8gL0.jpg" alt=""> 
+                <!-- <img class="image-handle-dish" src="pie1.jpg" alt=""> -->
+
+            </div>
+            <div class="dishes-prices">
+
+                <h1 class="dishes-name">Vegetable Pie <span class="sub-title">Our tasty offer no.1!</span></h1>
+                <a class="price-btn" href="#"><span class="sup-text">$</span><span class="sub-text"><sub>14</sub></span><span class="sup-text">99</span></a>
+
+            </div>
+
+
+        </div>
+
+
+
+        <div class="dishes-varaties2" data-aos="zoom-in"  data-aos-offset="300"
+        data-aos-easing="ease-in-sine" data-aos-duration="800">
+            <div class="image-dishes">
+                 <img class="image-handle-dish" src="https://i.imgur.com/OdADcU1.jpg" alt=""> 
+                <!-- <img class="image-handle-dish" src="4.jpg"alt=""> -->
+
+            </div>
+            <div class="dishes-prices">
+
+                <h1 class="dishes-name">oreo milk <span class="sub-title">our tasty offer no.1!</span></h1>
+                <a class="price-btn" href="#"><span class="sup-text">$</span><span class="sub-text"><sub>12</sub></span><span class="sup-text">99</span></a>
+
+            </div>
+
+
+        </div>
+ 
+
+ 
+ </div>
+
+
+     <div class="main-container-menu">
+     
+        <h1 class="our-menu-heading" >our menu</h1>
+            <p class="list-category">Choose your category:
+    
+            </p>
+            <div class="dropdown">
+                <button onclick="myFunction()" class="dropbtn">Filter  <i class="fa fa-chevron-down" aria-hidden="true"></i></button>
+           
+                <div id="myDropdown" class="dropdown-content">
+                  <a id="Breakfast" href="#home">Breakfast</a>
+                  <a id="Lunch" href="#about">Lunch</a>
+                  <a id="Salads" href="#contact">Salads</a>
+                  <a id="Cake" href="#contact">Cakes</a>
+                  <a id="Drink" href="#contact">Drink</a>
+                  <a id="Catering" href="#contact">Catering</a>
+              </div>
+            </div>  
+
+        <div class="flex-cate">
+
+             <div class="dishes-image">
+                <div class="image-upload">
+                     <img class="image-handle" src="https://i.imgur.com/jLkQ4El.png" alt="">  
+                    <!-- <img class="image-handle" src="break1.png"alt="">  -->
+                    
+                    
+                    <h1 class="dish-heading-name">Organic Oatmeal</h1>
+                    <p class="dish-title"  data-aos="fade-right"
+                    data-aos-offset="300"
+                    data-aos-easing="ease-in-sine" data-aos-duration="1000" >This oatmeal makes a delicious, chewy, wholesome hot cereal that will give you lasting energy throughout the morning</p>
+                    <h1 class="price-food"  data-aos="fade-left"
+                    data-aos-offset="300"
+                    data-aos-easing="ease-in-sine" data-aos-duration="1000">$12.50</h1>
+                    <a class="order-btn" data-aos="fade-right"
+                    data-aos-offset="300"
+                    data-aos-easing="ease-in-sine" data-aos-duration="1000" href="#">order online</a>
+                </div> 
+             </div>
+
+
+         
+
+            <div class="dishes-image">
+                <div class="image-upload">
+                    <img class="image-handle" src="https://i.imgur.com/BAAtOE5.png" alt="">
+                    <!-- <img class="image-handle" src="snaks.webp" alt=""> -->
+                    
+                    
+        <h1 class="dish-heading-name">Grilled Panini</h1>
+        <p class="dish-title"data-aos="fade-right"
+        data-aos-offset="300"
+        data-aos-easing="ease-in-sine" data-aos-duration="1000">Fresh toppings and perfectly melted cheese makes every bite of our Grilled Panini simply mouthwatering.</p>
+        <h1 class="price-food" data-aos="fade-left"
+        data-aos-offset="300"
+        data-aos-easing="ease-in-sine" data-aos-duration="1000">$13.90</h1>
+         <a class="order-btn"data-aos="fade-right"
+         data-aos-offset="300"
+         data-aos-easing="ease-in-sine" data-aos-duration="1000" href="#">Order Online</a>
+                </div> 
+            </div>
+
+
+            
+
+            <div class="dishes-image">
+                <div class="image-upload">
+                    <img class="image-handle" src="https://i.imgur.com/Quazh6g.png" alt=""> 
+                    <!-- <img class="image-handle" src="eggs.webp" alt=""> -->
+                    
+                    
+        <h1 class="dish-heading-name">Eggplant Sandwiches</h1>
+        <p class="dish-title"data-aos="fade-right"
+        data-aos-offset="300"
+        data-aos-easing="ease-in-sine" data-aos-duration="1000">Roasted eggplant in a French roll with feta cheese, basil and garlic mayonnaise. It’s a No. 1 favorite of our clients.</p>
+        <h1 class="price-food" data-aos="fade-left"
+        data-aos-offset="300"
+        data-aos-easing="ease-in-sine" data-aos-duration="1000">$10.90</h1>
+         <a class="order-btn" data-aos="fade-right"
+         data-aos-offset="300"
+         data-aos-easing="ease-in-sine" data-aos-duration="1000" href="#">order online</a>
+                </div> 
+            </div>
+
+         
+
+
+            <div class="dishes-image">
+                <div class="image-upload">
+                    <img class="image-handle" src="https://i.imgur.com/DaMzoZS.png" alt=""> 
+                    <!-- <img class="image-handle" src="stack.webp" alt=""> -->
+                    
+        <h1 class="dish-heading-name">Stack of Pancakes</h1>
+        <p class="dish-title" data-aos="fade-right"
+        data-aos-offset="300"
+        data-aos-easing="ease-in-sine" data-aos-duration="1000">Taste this homey goodness of plain golden pancakes served with whipped butter cooked according to our chef’s recipe.</p>
+        <h1 class="price-food" data-aos="fade-left"
+        data-aos-offset="300"
+        data-aos-easing="ease-in-sine" data-aos-duration="1000" >$9.50</h1>
+         <a class="order-btn" data-aos="fade-right"
+         data-aos-offset="300"
+         data-aos-easing="ease-in-sine" data-aos-duration="1000" href="#">order online</a>
+    </div> </div> </div>
+    </div>
+
+    <div class="bottom-container">
+        <ul>
+            <l1 ></l1><a href="#">Breakfast</a></l1>
+            <l1 ><a href="#">drinks</a></l1>
+            <l1 ><a href="#">salads</a></l1>
+            <l1 ><a href="#">cakes</a></l1>
+            <l1 ><a href="#">catering</a></l1>
+        </ul>
+        <div class="underline">
+
+        </div>
+        <p class="Tasty-title" data-aos="fade-right" 
+          data-aos-easing="ease-in-sine" data-aos-duration="1000">Luxury Food <i class="fa fa-copyright" aria-hidden="true"></i> @ 2020 </br><a class="privacy-policy" href="#">privacy policy</a> </p>
+        <p class="creater"  >created by <i class="fa fa-heart" aria-hidden="true"></i>Muskan Mahajan</p>
+    </div>
+</div>
+   
+
+    <script src="javascript.js"></script>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+    AOS.init();
+  </script> 
+    
+</body>
+</html>""
